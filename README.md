@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hello world! I'm Clarice 👋</h1>
-<h3 align="center">👩🏻‍💻 Informatics student passionate about Data Science & Web Development 📊</h3>
-
 - 🔭 I'm currently working on my [music account](https://tiktok.com/@clahrin)
 - 🌱 I'm currently learning web dev :D
 - 💬 Ask me about psychology, music & art!
