@@ -1,4 +1,4 @@
-## Ello world, rice here 🍙👋
+## Hi, I'm Clarice! 👋
 
 <!--
 **tingclarice/tingclarice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm currently working on my [music account](https://tiktok.com/@clahrin)
-- 🌱 I'm currently learning web dev :D
-- 💬 Ask me about psychology, music & art!
-- ⚡I mostly do design & front-end work, view [here!](https://clarice-portofolio-2025.vercel.app/index.html)
+- 🔭 I'm currently working on ALP
+- 🌱 I'm currently learning web dev
+- ⚡portofolio website: [link](https://clarice-portofolio-2025.vercel.app/index.html)
 
 ---
 
