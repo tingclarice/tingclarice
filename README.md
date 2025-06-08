@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm currently working on ALP
-- 🌱 I'm currently learning web dev
+- 🔭 I'm currently studying informatics
 - ⚡portofolio website: [link](https://clarice-portofolio-2025.vercel.app/index.html)
 
 ---
