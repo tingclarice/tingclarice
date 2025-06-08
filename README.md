@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm currently studying informatics
-- ⚡portofolio website: [link](https://clarice-portofolio-2025.vercel.app/index.html)
+- 🌱 I'm currently studying informatics
+- 🔭 portofolio website: [link](https://clarice-portofolio-2025.vercel.app/index.html)
 
 ---
 
