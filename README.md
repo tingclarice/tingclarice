@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I'm currently studying informatics
-- 🔭 portofolio website: [link](https://web-programming-afl-3.vercel.app/))
+- 🔭 portofolio website: [link](https://web-programming-afl-3.vercel.app/)
 
 ---
 
