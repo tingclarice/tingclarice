@@ -18,18 +18,19 @@ Here are some ideas to get you started:
 Informatics student at Universitas Ciputra Surabaya, exploring the intersection of **Applied Machine Learning, data, and thoughtful software design**. 
 I love turning raw data and intelligent models into cozy, functional products that solve real-life problems.
 
-Currently a Teaching Assistant for **Algorithms & Programming, OOP, and Web Programming**, and a big fan of iced coffee, lo-fi beats, and training models that actually make sense 🧋☁️
+Currently a Teaching Assistant for **Algorithms & Programming, OOP, and Web Programming**, and a big fan of iced latte, lo-fi beats, and training models that actually make sense 🧋☁️
 
-[portfolio](https://clahrin.vercel.app/) · [linkedin](https://www.linkedin.com/in/clahrin/) · [email me](mailto:clariceting2006@gmail.com)
+<div align="center">
+  <a href="mailto:clariceting2006@gmail.com">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm14d2RzdWh4MzUzN2hpMDl5c3U5OHQxOGY1NnFlbmliaWtsamRjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VLbpGh5yZyEPm0qJVQ/giphy.gif" width="140" alt="send me a letter" />
+  </a>
+</div>
 
 ---
 
 #### ☕ a little bit about me
 - 🎓 CS / Informatics student based in Surabaya, Indonesia
 - 🧠 Career focus: **Applied AI/ML, Time-Series & Predictive Modeling, and Intelligent Apps**
-- 👩‍🏫 Helping juniors build strong logic as a Computer Science Teaching Assistant
-- 🛠️ Full-cycle builder: from data preprocessing & model training to responsive UI integration
-- 🎧 Lo-fi beats & caffeine-fueled problem solver
 
 ---
 
