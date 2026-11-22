@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### ˗ˏˋ hi there, i'm clarice! ˎˊ˗ 🌷
 
 Informatics student at Universitas Ciputra Surabaya, exploring the intersection of **Applied Machine Learning, data, and thoughtful software design**. 
-I love turning raw data and intelligent models into cozy, functional products that solve real-life problems.
+I love turning raw data and intelligent models into functional products that solve real-life problems.
 
 Currently a Teaching Assistant for **Algorithms & Programming, OOP, and Web Programming**, and a big fan of iced latte, lo-fi beats, and training models that actually make sense 🧋☁️
 
