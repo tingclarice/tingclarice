@@ -54,7 +54,7 @@ I love turning raw data and intelligent models into functional products that sol
 #### 🪴 project highlights
 
 * 🧾 **[Onyxa](https://github.com/tingclarice/onyxa)** — Scan-first expense tracker for Indonesian SMEs. Uses **Gemini AI** to extract structured item-level data from receipt photos, paired with price-fluctuation alerts and slow-moving stock detection *(Next.js, TypeScript, Gemini AI SDK, Supabase)*.
-* ❄️ **[Sentrix](https://github.com/SentrixByNeura/sentrix-web)** — An IoT & **AI-powered AC predictive maintenance** initiative that forecasts active power usage (LightGBM) and flags early operational anomalies *(1st Runner-Up at MAJU:ON Hackathon 2026)*.
+* ❄️ **[Sentrix](https://github.com/Sentrix-by-Neura/sentrix-web)** — An IoT & **AI-powered AC predictive maintenance** initiative that forecasts active power usage (LightGBM) and flags early operational anomalies *(1st Runner-Up at MAJU:ON Hackathon 2026)*.
 * ⌚ **Vertix** — An iOS & Apple Watch companion app combining **AI-based posture tracking** with mindful Pomodoro focus sessions *(Swift, SwiftUI, Vision, Firebase)*.
 
 ---
